@@ -18,7 +18,7 @@ This repository contains the implementation of the paper **"FairQuanti: Enhancin
 
 ## 🛠 Requirements
 
-Make sure you have Python 3.8+ installed. Install dependencies with:
+Make sure you have Python 3.10 installed. Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
